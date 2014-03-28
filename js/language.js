@@ -236,7 +236,11 @@ App.Localization.languages = {
         encoding: ['windows-1250'],
         translation: false
     },
-    "sv": {},
+    "sv": {
+        display: "Svenska",
+        subtitle: true,
+        encoding: ['iso-8859-1']
+    },
     "tr": {
         display: "Türkçe",
         subtitle: true,
